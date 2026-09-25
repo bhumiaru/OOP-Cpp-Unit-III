@@ -18,7 +18,7 @@ public:                                     // Starts the public section
 
         return Balance(-balance);
         // Returns a new Balance object with negative balance
-    }
+    }ro
 
     void display() const {
         // Defines display function
